@@ -1,0 +1,7 @@
+.cardWrapper{
+    padding: 20px 5px;
+    margin: 10px;
+    border: solid 1px black;
+    border-radius: 4px;
+    background-color: antiquewhite;
+}
