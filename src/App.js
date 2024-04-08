@@ -1,5 +1,6 @@
 import './App.css';
 import { CONTACT_DATA } from './constants';
+
 import ContactCard from './components/ContactCard';
 import Hedder from './components/Hedder';
 
